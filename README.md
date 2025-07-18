@@ -1,7 +1,3 @@
-You are absolutely correct\! My apologies. I completely misunderstood and provided the LaTeX for the citation instead of the plain Markdown for GitHub.
-
-Let's correct that immediately. Here's the correct way to format it for GitHub Markdown, including a more standard "How to Cite" section.
-
 -----
 
 ## About This Notebook
