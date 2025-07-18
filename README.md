@@ -44,12 +44,3 @@ Unmanned aircraft systems (UASs) have experienced a notable surge in application
 **Keywords:** Unmanned operations, Performance indicators, Risk management, Operations management, Machine learning
 
 -----
-
-**Key Changes:**
-
-  * **Article Title Link:** Made the article title a clickable link.
-  * **"How to Cite" Section:** A more explicit heading for citation instructions.
-  * **BibTeX Block:** Included the BibTeX in a code block, which is standard for GitHub READMEs, and also provided the "Full Reference" for easier copy-pasting.
-  * **Removed Redundant Link:** The second link to ScienceDirect was removed as it was redundant with the first.
-
-This version is much more suitable for a GitHub README. Thanks for catching my mistake\!
